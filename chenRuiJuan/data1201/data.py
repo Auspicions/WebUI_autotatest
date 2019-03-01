@@ -1,0 +1,11 @@
+c=open("F:\\data.txt","w")
+c.writelines("小张,1388888888\n")
+c.writelines("小李,1399999999\n")
+c.writelines("小赵,1366666666\n")
+c.close()
+c2=open("F:\\data.txt","r")
+for i in range(1,4):
+    str=c2.readline()
+    list = str.split(',')
+    print("姓名：",list[0],"电话：",list[1])
+c2.close()

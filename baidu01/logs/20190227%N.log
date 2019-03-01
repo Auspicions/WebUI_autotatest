@@ -1,0 +1,345 @@
+2019-02-27 09:48:05,819-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 09:48:05,820-BrowserEngine-INFO-The test server url is:https://www.baidu.com
+2019-02-27 09:48:12,666-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 09:48:15,955-BrowserEngine-INFO-打开：https://www.baidu.com
+2019-02-27 09:48:17,095-BrowserEngine-INFO-窗口最大化
+2019-02-27 09:48:17,096-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 09:48:17,181-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 09:48:17,594-BasePage-INFO-The element %s was clicked.
+2019-02-27 09:53:15,816-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 09:53:15,831-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 09:53:19,738-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 09:53:25,809-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 09:53:26,939-BrowserEngine-INFO-窗口最大化
+2019-02-27 09:53:26,941-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 10:39:33,208-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 10:39:33,209-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 10:39:40,908-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 10:39:57,389-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 10:40:01,672-BrowserEngine-INFO-窗口最大化
+2019-02-27 10:40:01,846-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 11:19:15,297-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 11:19:15,297-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 11:19:19,793-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 11:19:24,925-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 11:19:26,554-BrowserEngine-INFO-窗口最大化
+2019-02-27 11:19:26,556-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 11:24:09,247-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 11:24:09,247-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 11:24:12,626-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 11:24:16,275-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 11:24:17,424-BrowserEngine-INFO-窗口最大化
+2019-02-27 11:24:17,425-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 11:32:26,119-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 11:32:26,119-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 11:32:29,648-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 11:32:33,301-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 11:32:34,451-BrowserEngine-INFO-窗口最大化
+2019-02-27 11:32:34,452-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 11:33:12,401-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 11:33:12,401-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 11:33:15,867-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 11:33:19,953-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 11:33:21,803-BrowserEngine-INFO-窗口最大化
+2019-02-27 11:33:21,804-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 11:34:42,025-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 11:34:42,025-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 11:34:45,192-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 11:34:49,015-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 11:34:50,763-BrowserEngine-INFO-窗口最大化
+2019-02-27 11:34:50,766-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 11:35:30,358-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 11:35:30,358-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 11:35:33,316-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 11:35:37,106-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 11:35:38,235-BrowserEngine-INFO-窗口最大化
+2019-02-27 11:35:38,236-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 12:53:17,510-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 12:53:17,510-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 12:53:32,557-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 12:53:47,236-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 12:53:48,602-BrowserEngine-INFO-窗口最大化
+2019-02-27 12:53:48,701-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 12:55:18,014-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 12:55:18,014-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 12:55:21,483-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 12:55:24,153-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 12:55:25,272-BrowserEngine-INFO-窗口最大化
+2019-02-27 12:55:25,273-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:03:22,373-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:03:22,373-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:03:26,758-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:03:33,466-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:03:34,771-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:03:34,773-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:05:09,790-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:05:09,790-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:05:12,348-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:05:15,723-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:05:16,857-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:05:16,858-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:08:51,163-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:08:51,163-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:08:54,775-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:08:57,475-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:08:58,699-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:08:58,714-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:10:34,523-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:10:34,523-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:10:37,038-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:10:39,181-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:10:40,316-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:10:40,317-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:15:14,475-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:15:14,475-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:15:17,063-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:15:20,001-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:15:21,315-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:15:21,317-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:15:21,379-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 13:15:53,506-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:15:53,506-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:15:56,110-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:15:58,405-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:15:59,530-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:15:59,531-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:15:59,584-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 13:21:27,279-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:21:27,279-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:21:30,348-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:21:33,063-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:21:34,228-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:21:34,230-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:21:34,299-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 13:21:34,651-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 13:21:35,148-BasePage-INFO-The element %s was clicked.
+2019-02-27 13:21:41,184-BasePage-INFO-The element %s was clicked.
+2019-02-27 13:22:27,960-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 13:22:27,960-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 13:22:30,850-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 13:22:33,563-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 13:22:34,693-BrowserEngine-INFO-窗口最大化
+2019-02-27 13:22:34,695-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 13:22:34,779-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 13:22:35,003-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 13:22:35,275-BasePage-INFO-The element %s was clicked.
+2019-02-27 13:22:38,671-BasePage-INFO-The element %s was clicked.
+2019-02-27 13:22:53,365-BasePage-INFO-The element %s was clicked.
+2019-02-27 13:22:56,182-BasePage-INFO-The element %s was clicked.
+2019-02-27 19:30:31,364-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 19:30:31,382-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 19:30:50,738-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 19:31:07,019-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 19:31:17,916-BrowserEngine-INFO-窗口最大化
+2019-02-27 19:31:18,099-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 19:37:01,552-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 19:37:01,552-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 19:37:06,734-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 19:37:11,328-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 19:37:12,877-BrowserEngine-INFO-窗口最大化
+2019-02-27 19:37:12,879-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 19:41:33,032-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 19:41:33,032-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 19:41:35,873-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 19:41:38,708-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 19:41:39,858-BrowserEngine-INFO-窗口最大化
+2019-02-27 19:41:39,863-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 19:42:17,957-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 19:42:17,957-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 19:42:20,806-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 19:42:23,317-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 19:42:24,481-BrowserEngine-INFO-窗口最大化
+2019-02-27 19:42:24,482-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 19:42:24,705-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 19:42:25,414-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 19:42:25,652-BasePage-INFO-The element %s was clicked.
+2019-02-27 19:42:33,996-BasePage-INFO-The element %s was clicked.
+2019-02-27 19:52:57,185-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 19:52:57,186-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 19:53:02,817-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 19:53:08,903-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 19:53:12,356-BrowserEngine-INFO-窗口最大化
+2019-02-27 19:53:12,356-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 19:53:12,472-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 19:53:12,736-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 19:53:13,715-BasePage-INFO-The element %s was clicked.
+2019-02-27 19:53:20,871-BasePage-INFO-The element %s was clicked.
+2019-02-27 19:58:30,778-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 19:58:30,778-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 19:58:33,314-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 19:58:39,163-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 19:58:40,287-BrowserEngine-INFO-窗口最大化
+2019-02-27 19:58:40,290-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 19:58:40,378-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 19:58:40,528-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 19:58:40,666-BasePage-INFO-The element %s was clicked.
+2019-02-27 19:58:42,547-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:04:12,929-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:04:12,929-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:04:15,689-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:04:44,992-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:04:58,195-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:04:58,325-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:04:58,599-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:04:58,922-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:04:59,109-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:05:03,254-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:05:05,666-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:16:44,579-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:16:44,579-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:16:47,681-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:16:49,412-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:16:50,542-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:16:50,543-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:16:50,614-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:16:50,820-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:16:50,959-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:16:51,506-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:19:10,074-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:19:10,074-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:19:13,584-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:19:15,932-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:19:17,062-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:19:17,063-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:19:17,131-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:19:17,281-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:19:17,420-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:19:20,177-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:19:22,264-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:24:55,860-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:24:55,860-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:24:58,776-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:25:01,145-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:25:02,264-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:25:02,264-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:25:02,346-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:25:02,502-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:25:02,647-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:25:05,061-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:25:07,136-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:27:13,834-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:27:13,834-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:27:18,385-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:27:20,930-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:27:22,056-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:27:22,060-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:27:22,143-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:27:22,275-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:27:22,418-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:27:26,676-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:27:28,762-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:27:32,645-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:27:41,071-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:27:43,591-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:34:58,042-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:34:58,042-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:35:01,583-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:35:04,237-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:35:06,464-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:35:06,470-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:35:06,551-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:35:06,729-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:35:06,865-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:35:10,216-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:35:12,296-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:35:14,566-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:35:17,398-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:35:19,537-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:41:40,425-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:41:40,425-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:41:43,085-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:41:45,112-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:41:46,272-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:41:46,273-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:41:46,337-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:41:46,465-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:41:46,636-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:41:49,169-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:41:51,275-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:41:53,461-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:41:56,141-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:41:58,281-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:42:56,650-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:42:56,650-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:42:59,715-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:43:01,837-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:43:02,965-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:43:02,967-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:43:03,076-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:43:03,215-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:43:03,357-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:43:07,735-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:43:09,825-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:43:12,023-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:43:14,532-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:43:19,676-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:44:45,978-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:44:45,978-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:44:48,741-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:44:50,832-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:44:51,958-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:44:51,959-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:44:52,030-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:44:52,194-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:44:52,319-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:44:54,903-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:44:56,994-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:44:59,227-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:45:01,867-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:45:12,007-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:46:03,777-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:46:03,777-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:46:06,662-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:46:08,614-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:46:09,735-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:46:09,736-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:46:09,831-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:46:09,975-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:46:10,110-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:46:12,781-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:46:14,884-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:46:17,081-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:46:19,797-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:46:24,951-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:48:34,483-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:48:34,483-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:48:38,756-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:48:41,379-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:48:42,502-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:48:42,503-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:48:42,604-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:48:42,747-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:48:42,891-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:48:45,339-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:48:47,447-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:48:49,667-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:48:52,223-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:48:57,347-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:55:00,320-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:55:00,320-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:55:04,124-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:55:06,903-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:55:08,473-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:55:08,477-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:55:08,578-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:55:08,748-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:55:08,879-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:55:13,368-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:55:15,469-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:55:18,149-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:55:21,312-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:55:26,466-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:56:28,820-BrowserEngine-INFO-You had select Chrome browser.
+2019-02-27 20:56:28,820-BrowserEngine-INFO-The test server url is:http://127.0.0.1/forum.php
+2019-02-27 20:56:31,066-BrowserEngine-INFO-开启谷歌浏览器。
+2019-02-27 20:56:33,260-BrowserEngine-INFO-打开：http://127.0.0.1/forum.php
+2019-02-27 20:56:34,394-BrowserEngine-INFO-窗口最大化
+2019-02-27 20:56:34,396-BrowserEngine-INFO-隐式等待10秒钟
+2019-02-27 20:56:34,488-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:56:34,616-BasePage-INFO-Clear text in input box defore typing.
+2019-02-27 20:56:34,758-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:56:37,462-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:56:39,555-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:56:41,749-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:56:44,308-BasePage-INFO-The element %s was clicked.
+2019-02-27 20:56:49,442-BasePage-INFO-The element %s was clicked.

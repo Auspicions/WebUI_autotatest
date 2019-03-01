@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config/config.ini" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework/browser_engine.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logs/20190227%N.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pageobject/discuz2_page.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pageobject/discuz3_page.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pageobject/discuz4_page.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/run_all_test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_first_search.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_four_search.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_second_search.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_three_search.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
